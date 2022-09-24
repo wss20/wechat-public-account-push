@@ -41,7 +41,7 @@ export const config = {
     poetry: false,
 
     /** 星座运势 */
-    horoscope: false,
+    horoscope:true,
 
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -62,7 +62,7 @@ export const config = {
       // 想要发送的人的名字
       name: "锐锐子",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oRPB-6b5lgKHfEVOGeI5-Y1TUcUU",
+      id: "oRPB-6W6SDlHoxIa3maQvALkKg4U",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "KoDKtNAP9SgIHFsxxdORmEoeWVsDDjaPwAxjxibmNR8",
       // 所在省份
@@ -92,11 +92,11 @@ export const config = {
       ]
     },
     {
-      name: "锐宝",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "帅帅",
+      id: "oRPB-6b5lgKHfEVOGeI5-Y1TUcUU",
+      useTemplateId: "KoDKtNAP9SgIHFsxxdORmEoeWVsDDjaPwAxjxibmNR8",
+      province: "山西",
+      city: "忻州",
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
